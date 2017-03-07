@@ -1,4 +1,3 @@
-# lab0
+# lab1
 
-
-[Heroku](https://fathomless-ravine-28734.herokuapp.com/)
+[Heroku](https://tmdadlab1.herokuapp.com/)
